@@ -1,0 +1,43 @@
+{
+    "title": "Nike Zoom KD12",
+    "subtitle": "Men's running Shoes",
+    "info": "Ensure a comfortable ...",
+    "colors" : [
+        "blue",
+        "red",
+        "green",
+        "orange",
+        "purple"
+    ],
+    "currentColor": "orange",
+    "listData": [
+        {
+            "id": 1,
+            "name": "foo",
+            "genres": "pop",
+            "number": 12,
+            "title": "album_1" 
+        },
+        {
+            "id": 1,
+            "name": "foo",
+            "genres": "pop",
+            "number": 15,
+            "title": "album_2" 
+        },
+        {
+            "id": 2,
+            "name": "bar",
+            "genres": "rock",
+            "number": 15,
+            "title": "album_rock" 
+        },
+        {
+            "id": 1,
+            "name": "djdj",
+            "genres": "hip hop",
+            "number": 7,
+            "title": "album_dj" 
+        }
+    ]
+}
